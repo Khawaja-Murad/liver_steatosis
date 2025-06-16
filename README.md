@@ -136,7 +136,7 @@ model.eval()
     True fat = 29.4%, Pred fat = 27.8%
 ```
 
-![Slice Image with Predictions](./some_slice_conf_matrix.png)
+![Slice Image with Predictions](/results/working/Test_CM.png)
 
 ---
 
