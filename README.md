@@ -141,12 +141,12 @@ MSE: 11.01
 ⬜ True Negatives
 
 ---
-!(/results/working/Test_CM.png)
-!(/results/working/Fold1_Val_CM.png)
-!(/results/working/Fold2_Val_CM.png)
-!(/results/working/Fold3_Val_CM.png)
-!(/results/working/Fold4_Val_CM.png)
-!(/results/working/Fold5_Val_CM.png)
+![](/results/working/Test_CM.png)
+![](/results/working/Fold1_Val_CM.png)
+![](/results/working/Fold2_Val_CM.png)
+![](/results/working/Fold3_Val_CM.png)
+![](/results/working/Fold4_Val_CM.png)
+![](/results/working/Fold5_Val_CM.png)
 
 ## 🧠 Inference Pipeline
 
