@@ -95,7 +95,7 @@ MSE: 11.01
 ⬜ True Negatives
 
 ---
-
+![Slice Image with Predictions](/results/working/Test_CM.png)
 ## 🧠 Inference Pipeline
 
 A sample script is provided to load the model and perform inference on a middle slice of a 3D volume:
@@ -136,7 +136,7 @@ model.eval()
     True fat = 29.4%, Pred fat = 27.8%
 ```
 
-![Slice Image with Predictions](/results/working/Test_CM.png)
+
 
 ---
 
